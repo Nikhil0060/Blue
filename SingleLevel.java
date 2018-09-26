@@ -20,6 +20,6 @@ public class SingleLevel {
   class B extends A
   {
 	  public void sub() {
-		  System.out.println("subtraction");
+		  System.out.println("subtraction78");
 	  }
   }
